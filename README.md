@@ -1,9 +1,9 @@
-👋 HI, I AM IVAN
-👀 Full stack developer and engineer
-🌱 I use power of Python and ReactJS to solve tasks.
-💞️ I’m looking to collaborate on Python and ReactJS projects. 
-📫 Reach me at https://www.linkedin.com/in/ivan-copic-7708062a/
-👀 My home page at https://ivkesweng.vercel.app
+- 👋 HI, I AM IVAN
+- 👀 Full stack developer and engineer
+- 🌱 I use power of Python and ReactJS to solve tasks.
+- 💞️ I’m looking to collaborate on Python and ReactJS projects. 
+- 📫 Reach me at https://www.linkedin.com/in/ivan-copic-7708062a/
+- 👀 My home page at https://ivkesweng.vercel.app
 
 ![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
 ![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg)
