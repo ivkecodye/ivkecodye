@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Python and ReactJS projects. 
 - 📫 Reach me at https://www.linkedin.com/in/ivan-copic-7708062a/
 - 👀 My home page at https://ivkesweng.vercel.app
-- https://github.com/topics/python
+
+https://github.com/topics/python
 
 <!---
 ivkecodye/ivkecodye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
