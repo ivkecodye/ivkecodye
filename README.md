@@ -5,9 +5,9 @@
 - 📫 Reach me at https://www.linkedin.com/in/ivan-copic-7708062a/
 - 👀 My home page at https://ivkesweng.vercel.app
 
-![github100x100](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)
+![github](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)
 
-(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/270px-React-icon.svg.png)
+
 
 <!---
 ivkecodye/ivkecodye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
