@@ -5,7 +5,7 @@
 - 📫 Reach me at https://www.linkedin.com/in/ivan-copic-7708062a/
 - 👀 My home page at https://ivkesweng.vercel.app
 
-[![github](https://github.com/python)
+![github](https://github.com/python)
 
 <!---
 ivkecodye/ivkecodye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
