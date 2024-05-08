@@ -5,11 +5,9 @@
 - 📫 Reach me at https://www.linkedin.com/in/ivan-copic-7708062a/
 - 👀 My home page at https://ivkesweng.vercel.app
 
-![github](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)
+![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg)
 
- <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
+  
 
 
 
