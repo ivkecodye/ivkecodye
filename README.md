@@ -5,7 +5,7 @@
 - 📫 Reach me at https://www.linkedin.com/in/ivan-copic-7708062a/
 - 👀 My home page at https://ivkesweng.vercel.app
 
-![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg) ![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg) ![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/node.svg)
+![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg) ![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg) ![github](https://www.linkedin.com/in/ivan-copic-7708062a/)
 
   
 
