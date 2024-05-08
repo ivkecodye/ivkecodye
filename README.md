@@ -7,7 +7,7 @@
 
 ![github](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)
 
-![github](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![github](https://react.dev)
 
 <!---
 ivkecodye/ivkecodye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
