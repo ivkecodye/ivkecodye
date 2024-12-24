@@ -5,9 +5,9 @@
 - 📫 Reach me at https://www.linkedin.com/in/ivancopic
 - 👀 My home page at https://ivkesweng.vercel.app
 
-![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
 ![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg)
 ![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg)
+![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
 ![github](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg)
 <a href="https://www.linkedin.com/in/ivan-copic-7708062a/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
