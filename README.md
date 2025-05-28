@@ -1,6 +1,6 @@
 - 👋 Hi, i am Ivan
 - 👀 Full stack developer and engineer
-- 🌱 I use power of Python and TypeScript to solve tasks.
+- 🌱 I use power of TypeScript and Python to solve tasks.
 - 💞️ I’m looking to collaborate on Full Stack Application projects. 
 - 📫 Reach me at https://www.linkedin.com/in/ivancopic
 - 👀 My home page at https://ivkesweng.vercel.app
